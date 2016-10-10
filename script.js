@@ -1,5 +1,4 @@
 function doStuff(name) {
-  console.log(name.toString())
 }
 
-doStuff("'lutfgjh")
+doStuff(doStuff)
