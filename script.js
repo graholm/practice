@@ -1,5 +1,5 @@
-consolesomething ()
-$("#buttonclick".click (function() {
+something ()
+$("#click").click (function() {
   comsole.log ("hi!")
-  )}
+  });
                         
