@@ -1,2 +1,5 @@
 consolesomething ()
-$('#buttonclick'/
+$("#buttonclick".click (function() {
+  comsole.log ("hi!")
+  )}
+                        
