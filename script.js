@@ -1,3 +1,7 @@
 function hi() {
-  console.log("hi david")
+  var name = "david"
+  console.log("hi " + name)
 }
+
+hi()
+willNotRun()
