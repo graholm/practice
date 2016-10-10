@@ -1,4 +1,5 @@
-function doStuff(name) {
-}
+if (botton ) {
+  var valueseason = $("#dropDownId").val();
 
-doStuff(doStuff)
+  var season = (valueseason); 
+  console.log (season)
