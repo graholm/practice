@@ -1,1 +1,2 @@
-
+consolesomething ()
+$('#buttonclick'/
