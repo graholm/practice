@@ -1,7 +1,5 @@
-function hi() {
-  var name = "david"
+function hi(name) {  
   console.log("hi " + name)
 }
 
-hi()
-willNotRun()
+hi("fish")
