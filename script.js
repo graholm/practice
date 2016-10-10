@@ -1,5 +1,5 @@
-function hi(name) {  
-  console.log("hi " + name)
+function  length (name) {  
+  console.log(name)
 }
 
-hi("fish")
+length("fish")
