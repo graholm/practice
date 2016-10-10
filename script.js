@@ -1,6 +1,11 @@
-function onClick() {
-  console.log("Asdf") 
-}
+var quantityInput = $(".element-quantity-input")
+quantityInput.keydown(function(e) {
 
-$("#button").click(onClick())
-$("#button").click(onClick)
+  var keyCode = e.keyCode
+  var inputValue = quantityInput.val();
+
+  if (keyCode == 13) {
+    var valueseason = $("#dropDownId").val();
+
+    var season = (valueseason); 
+    console.log (season)
